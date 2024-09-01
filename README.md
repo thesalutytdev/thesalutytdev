@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thesalutytdev
-- 👀 I’m interested in Java modding
+- 👀 I’m interested in Java minecraft modding
 - 🌱 I’m currently learning C and C++
 - 📫 How to reach me:
 https://t.me/SALUTYT | @salutyt in discord
